@@ -1,3 +1,8 @@
+PROCESS-NAME,News
+DOMAIN,hls.itunes.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,itunes.com
+
 ## Siri
 USER-AGENT,*AssistantServices*,Proxy
 
